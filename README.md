@@ -1,5 +1,5 @@
 ### **Olá** 👋
-Eu sou **Arthur**, um **estudante** 🎓 do Senai, no curso de TI **Programador Full-Stack** 📱.
+Eu sou **Arthur 67**, um **estudante** 🎓 do Senai, no curso de TI **Programador Full-Stack** 📱.
 
 <hr/>
 
