@@ -1,16 +1,15 @@
-## Hi there 👋
+### **Olá** 👋
+Eu sou **Arthur**, um **estudante** 🎓 do Senai, no curso de TI **Programador Full-Stack** 📱.
 
-<!--
-**ARTHUR67669/ARTHUR67669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+🔧 **Habilidades:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+| [![Top Langs](https://vercel.app)](https://instagram.com) | [![GitHub Details](https://vercel.app)](https://instagram.com) |
+| ----------- | ----------- |
+
+**Me siga:**
+
+[![Instagram Badge](https://shields.io)](https://instagram.com)
